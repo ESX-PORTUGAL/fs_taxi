@@ -5,6 +5,7 @@ dependency 'essentialmode'
 client_scripts {
    'client/lib/i18n.lua',
    'client/locales/en.lua',
+   'client/locales/pt.lua',
    'client/client.lua'
 }
 
